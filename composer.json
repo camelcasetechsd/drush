@@ -26,7 +26,6 @@
     "drush.complete.sh"
   ],
   "require": {
-    "php": ">=5.4.5",
     "psy/psysh": "~0.5",
     "symfony/yaml": "~2.2",
     "symfony/var-dumper": "^2.6.3",
